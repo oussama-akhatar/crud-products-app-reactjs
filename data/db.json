@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Printer Samsung",
+      "price": 2000,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "smart-phone",
+      "price": 1200,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "smart-phone",
+      "price": 4200,
+      "checked": true
+    },
+    {
+      "id": 5,
+      "name": "Smart Phone",
+      "price": "13000",
+      "checked": "on"
+    },
+    {
+      "name": "Smart Phone",
+      "price": "13000",
+      "checked": "on",
+      "id": 6
+    },
+    {
+      "name": "Computer",
+      "price": "1299",
+      "checked": "on",
+      "id": 7
+    }
+  ]
+}
